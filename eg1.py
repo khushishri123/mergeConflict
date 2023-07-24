@@ -1,3 +1,1 @@
-def hello():
-    print("Hello Khushi")
-
+print("Hello Khushi")
