@@ -1,5 +1,4 @@
 FROM jenkins/agent:latest
+FROM python:3
 USER root
-RUN apk add python3
-RUN apk add py3-pip
 USER jenkins
